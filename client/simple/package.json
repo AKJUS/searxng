@@ -35,7 +35,7 @@
     "browserslist-to-esbuild": "^2.1.1",
     "edge.js": "^6.5.0",
     "less": "^4.6.4",
-    "mathjs": "^15.1.1",
+    "mathjs": "^15.2.0",
     "sharp": "~0.34.5",
     "sort-package-json": "^3.6.1",
     "stylelint": "^17.6.0",
